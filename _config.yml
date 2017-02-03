@@ -5,8 +5,8 @@ description: Visual Analytics Group of SKLCS, ISCAS
 highlighter: null
 permalink: /:title
 
-url:
-baseurl:
+url: /
+baseurl: /
 
 sass:
   sass_dir: public/css

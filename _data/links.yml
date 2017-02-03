@@ -1,5 +1,19 @@
 - url: /
   title: Home
 
-- url: /brume/about
+- url: /news
+  title: News
+
+- url: /publications
+  title: Publications
+
+- url: /researches
+  title: Researches
+
+- url: /team
+  title: Team
+
+- url: /about
   title: About
+
+
