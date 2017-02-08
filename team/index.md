@@ -13,6 +13,7 @@ title: Team
 * Yue Su   
 * Tao Jiang 
 * Congcong Huang
+* Rulei Yu
 
 ## Alumni
 
