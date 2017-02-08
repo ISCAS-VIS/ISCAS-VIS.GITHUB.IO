@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2014-12-31
 layout: post
 title: Student projects on IV Class Fall 2014

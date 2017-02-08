@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2015-08-25
 layout: post
 title: Congratulations on Qingsong Liu getting IEEE VIS Travel Grant (Student Volunteer)

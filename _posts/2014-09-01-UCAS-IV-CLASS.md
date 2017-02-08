@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2014-09-01
 layout: post
 title: Vis Class (IV Fall 2014)

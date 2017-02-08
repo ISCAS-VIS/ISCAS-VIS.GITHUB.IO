@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2015-02-01
 layout: post
 title: Participating IJCAI/WSDM/ICDM

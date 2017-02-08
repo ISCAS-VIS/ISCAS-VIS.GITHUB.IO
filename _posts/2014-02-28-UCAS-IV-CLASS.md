@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2014-02-28
 layout: post
 title: New Vis Class Offered (IV Spring 2014)

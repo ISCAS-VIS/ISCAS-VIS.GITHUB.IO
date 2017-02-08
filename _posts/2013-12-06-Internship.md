@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2013-12-06
 layout: post
 title: International summer internship position

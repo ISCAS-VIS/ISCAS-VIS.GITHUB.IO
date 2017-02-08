@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2015-07-28
 layout: post
 title: VEGAS accepted to IEEE TKDE as a regular paper
