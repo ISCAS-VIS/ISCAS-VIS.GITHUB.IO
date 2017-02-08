@@ -3,7 +3,7 @@ author: VIS
 description: Visual Analytics Group of SKLCS, ISCAS
 
 highlighter: null
-permalink: /:title
+permalink: /:year/:month/:day/:title/
 
 url: 
 baseurl: 
