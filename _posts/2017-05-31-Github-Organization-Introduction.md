@@ -1,8 +1,8 @@
 ---
-date: 2015-08-25
+date: 2017-05-31
 layout: post
 title: ISCAS VIS Github Organization
-thread: 3
+thread: 4
 categories: News
 tags: [IEEE-VIS]
 excerpt: 
